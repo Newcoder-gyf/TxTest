@@ -17,5 +17,16 @@ class MethDemo01 {
         //向下取整（舍弃小数位）
         double floorVal = Math.floor(3.8);
         System.out.println(floorVal);
+
+        //比较大小值
+        System.out.println(Math.max(12, 34));
+
+        //计算某个数的n次幂
+        double powValue = Math.pow(5, 5);
+        System.out.println(powValue);
+
+        //四舍五入
+        int roundValue = Math.round(14.6f);
+        System.out.println(roundValue);
     }
 }
