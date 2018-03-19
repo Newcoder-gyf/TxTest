@@ -17,19 +17,30 @@ abstract class AbstractTemplate01 {
     public void hookMethod(){};
 
     //定义一个必须不能被重写的方法
-    public final void concreatMethod(){}
+    public final void concreteMethod01(){}
 
     //模版方法
     public void templateMethod(){
         hookMethod();
         abstractMethod01();
-        concreatMethod();
+        concreteMethod01();
     }
 
     /*
     * 具体的模版
     * */
+    class concreteTemplate01 extends AbstractTemplate01{
 
+        /*
+        * 实现具体的业务逻辑
+        * */
+        public void abstractMethod01(){
+            System.out.println("concrete logic");
+        }
 
+        public void hoodMethod(){
+            System.out.println("override method");
+        }
+    }
 
 }
