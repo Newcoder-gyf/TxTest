@@ -3,86 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25b6c491-fdec-4f7b-ae10-4bd680ef4dbf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day04/Day04_01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day04/Day04_02.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day04/Day04_03.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day04/Day04_04.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day04/Day04_05.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Car.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Cat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Dog.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Person.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Singleton1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Singleton2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Student.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/Teacher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestCar.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestCat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestDog.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestPerson.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestSingleton.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestSingleton2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestStudent.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestTeacher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/TestUser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day05/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/AbstractDemo1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/ExtendsDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/ExtendsDemo2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/ExtendsDemo3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/ExtendsDemo4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/FinalDemo1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/FinalDemo2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/FinalDemo3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/JavaTeacher1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/JavaTeacher2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/JavaTeacher3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/JavaTeacher4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/OverrideDemo1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/PHPTeacher1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/PHPTeacher2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/Person09.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/Student.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/Teacher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/Teacher3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/Teacher4.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/Teacher6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/User2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/User3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/Worker.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/employee1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/employee3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/javaTeacher6.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day06/user1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/A03.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/B03.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/C03.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/C03Implement.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/Calinter04.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/Circle04.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/InterDemo02.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/InterDemo03.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/InterDemo04.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/InterDemo05.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/InterDemo06.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/InterDemo07.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/JavaTeacher02.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/JavaTeacher05.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/JavaTeacher06.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/JavaTeacher07.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/Leader07.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/PHPTeacher05.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/PHPTeacher06.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/Person01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/PhpTeacher07.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/Rect04.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/Teacher05.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/Teacher06.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/TeacherInter07.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/TeacherService01.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/TeacherService02.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/leader05.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day07/leader06.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Day07/08TemplateDemo01.java" afterPath="$PROJECT_DIR$/src/Day07/08TemplateDemo01.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,30 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="07InterDemo07.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Day07/07InterDemo07.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding>
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08TemplateDemo01.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="08TemplateDemo01.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Day07/08TemplateDemo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="465">
+              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -220,7 +122,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,9 +147,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -486,7 +388,8 @@
       <workItem from="1519426711222" duration="1464000" />
       <workItem from="1520043457231" duration="633000" />
       <workItem from="1520287580442" duration="43000" />
-      <workItem from="1520288694206" duration="7280000" />
+      <workItem from="1520288694206" duration="7431000" />
+      <workItem from="1521483471943" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="2018/03/05">
       <created>1520298819725</created>
@@ -499,36 +402,37 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49367000" />
+    <option name="totallyTimeSpent" value="51118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -857,17 +761,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day07/08TemplateDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day07/07InterDemo07.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="984">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="e#220#221#0" expanded="true" />
@@ -879,6 +775,14 @@
             <element signature="e#559#560#0" expanded="true" />
             <element signature="e#625#626#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day07/08TemplateDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
