@@ -1,13 +1,13 @@
 package Day08;
-//静态内部类学习
+//匿名类的学习
 
-class Outter03 {
+class Outter04 {
     private static int outterNum01 = 1;
     private int outterNum02;
 
     //定义静态 内部类,内部类可以是static
     //静态内部类只能访问直接外部类的静态属性（变量  ）
-    static class Inner03{
+    static class Inner04{
         int innerNum = 3;
 
         public void show01(){
@@ -20,13 +20,13 @@ class Outter03 {
     }
 
     public void method(){
-         Inner03 inner = new Inner03();
+         Inner04 inner = new Inner03();
          inner.show01();
     }
 
 }
 
-class OutterDemo03{
+class OutterDemo04{
     public static void main(String[] args){
         //创建内部类对象
         //Outter03.Inner03  inner = new Outter03().new Inner03();
