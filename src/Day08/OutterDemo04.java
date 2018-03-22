@@ -1,45 +1,49 @@
 package Day08;
 //匿名类的学习
+//通常通过接口来实现
+interface Myinter01{
+    public void method();
+}
 
-class Outter04 {
-    private static int outterNum01 = 1;
-    private int outterNum02;
-
-    //定义静态 内部类,内部类可以是static
-    //静态内部类只能访问直接外部类的静态属性（变量  ）
-    static class Inner04{
-        int innerNum = 3;
-
-        public void show01(){
-            System.out.println("method show is used");
-        }
-
-        public static void show02(){
-            System.out.println("static method show is used ");
-        }
-    }
-
+class myClass01 implements Myinter01{
     public void method(){
-         Inner04 inner = new Inner03();
-         inner.show01();
+        System.out.println("Implementing Myinter");
     }
-
 }
 
 class OutterDemo04{
     public static void main(String[] args){
-        //创建内部类对象
-        //Outter03.Inner03  inner = new Outter03().new Inner03();
-        //Error:(25, 34) java: qualified new of static class
-        Outter03.Inner03 inner = new Outter03.Inner03();
-        inner.show01();
-        inner.show02();
-        Outter03.Inner03.show02();
-        System.out.println("------------");
+        //接口是不能实例化的，在匿名内部类创建的时候可以借助接口
+        //创建匿名对象，调用method方法，这个对象很快就会被垃圾回收器GC回收
+        new myClass01().method();
 
-        Outter03 outter = new Outter03();
-        outter.method();
+        //创建了一个没有名字但是实现了Myinter接口的类的对象
+        new Myinter01(){
+            //里面可以定义属性
+            int i = 1;
+            public void method(){
+                System.out.println("Anonymous class01's method is used first time "+ i);
+            }
+        }.method();
 
+        new Myinter01(){
+            //里面可以定义属性
+            int i = 2 ;
+            public void method(){
+                System.out.println("Anonymous class02's method is used first time "+ i);
+            }
+        }.method();
+
+        System.out.println("------------------");
+        //创建匿名类的对象，但是赋值给接口,这个对象因为有引用所以不会被回收
+        Myinter01 mi = new Myinter01() {
+            int i = 3;
+            @Override
+            public void method() {
+                System.out.println("Anonymous class03's method is used first time "+ i);
+            }
+        };
+        mi.method();
     }
 }
 
