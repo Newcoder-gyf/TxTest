@@ -32,5 +32,6 @@ class ObjectDemo02{
     public static void main(String[] args){
         Student02 st01 = new Student02();
         Student02 st02 = new Student02();
+        System.out.println(st01);
     }
 }

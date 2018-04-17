@@ -38,7 +38,7 @@ class Student01{
 
 class ObjectDemo01{
     public static void main(String[] args){
-        Student st = new Student();
+        Student01 st = new Student01();
         st.setName("Yang");
         st.setAge(23);
         st.setGender(1);

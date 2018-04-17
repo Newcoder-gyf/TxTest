@@ -212,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectDemo01">
+  <component name="RunManager" selected="Application.ObjectDemo02">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -227,8 +227,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OutterDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08.OutterDemo03" />
+    <configuration name="ObjectDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day08.ObjectDemo02" />
       <module name="TxTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -326,19 +326,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.OutterDemo03" />
       <item itemvalue="Application.OutterDemo04" />
       <item itemvalue="Application.OutterDemo05" />
       <item itemvalue="Application.OutterDemo06" />
       <item itemvalue="Application.ObjectDemo01" />
+      <item itemvalue="Application.ObjectDemo02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectDemo02" />
         <item itemvalue="Application.ObjectDemo01" />
         <item itemvalue="Application.OutterDemo06" />
         <item itemvalue="Application.OutterDemo05" />
         <item itemvalue="Application.OutterDemo04" />
-        <item itemvalue="Application.OutterDemo03" />
       </list>
     </recent_temporary>
   </component>
