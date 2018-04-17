@@ -3,12 +3,12 @@ package Day08;
 * java.long.Object 是被每一个类默认继承的
 *
 * */
-class Student{
+class Student01{
     private String name;
     private int age;
     private int gender;
 
-    public Student(){
+    public Student01(){
         super();
     }
     public void setName(String name){
