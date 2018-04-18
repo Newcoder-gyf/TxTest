@@ -38,6 +38,13 @@ class Student02{
         }
         return result;
      }
+
+     /*
+     * 在重写euqals 的时候通常也会重写hashCode
+     * */
+     public int hashCode(){
+        return 1;
+     }
 }
 
 class ObjectDemo02{
