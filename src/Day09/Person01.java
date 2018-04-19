@@ -1,6 +1,6 @@
 package Day09;
 
-class Person {
+class Person01 {
     private String name;
     private int age;
     private int gender;
@@ -27,5 +27,18 @@ class Person {
 
     public void setGender(int gender) {
         this.gender = gender;
+    }
+
+    public Person01(String name, int age, int gender) {
+        this.name = name;
+        this.age = age;
+        this.gender = gender;
+    }
+
+    public Person01() {
+    }
+
+    public void display(){
+        System.out.println(this.name + this.age + this.gender );
     }
 }
