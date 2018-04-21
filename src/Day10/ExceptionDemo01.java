@@ -6,7 +6,7 @@ public class ExceptionDemo01 {
 //        int b = 0;
 //        a = a / b;
 
-//        int[] array = new int[10];
-//        System.out.print(array[10]);
+        int[] array = new int[10];
+        System.out.print(array[10]);
     }
 }
