@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b6c491-fdec-4f7b-ae10-4bd680ef4dbf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day10/ExceptionDemo06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10/ExceptionDemo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10/ExceptionDemo05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day10/ExceptionDemo06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10/ExceptionDemo06.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="ExceptionDemo06.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Day10/ExceptionDemo06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="360">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -49,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Day05/Singleton.java" />
         <option value="$PROJECT_DIR$/src/Day05/Singleton1.java" />
         <option value="$PROJECT_DIR$/src/Day05/Singleton2.java" />
         <option value="$PROJECT_DIR$/src/Day06/ExtendsDemo.java" />
@@ -100,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/Day10/ExceptionDemo01.java" />
         <option value="$PROJECT_DIR$/src/Day10/ExceptionDemo04.java" />
         <option value="$PROJECT_DIR$/src/Day10/ExceptionDemo05.java" />
+        <option value="$PROJECT_DIR$/src/Day10/ExceptionDemo06.java" />
       </list>
     </option>
   </component>
@@ -174,23 +172,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionDemo05">
+  <component name="RunManager" selected="Application.ExceptionDemo06">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="ExceptionDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10.ExceptionDemo01" />
-      <module name="TxTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ExceptionDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10.ExceptionDemo02" />
       <module name="TxTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -224,6 +211,17 @@
     </configuration>
     <configuration name="ExceptionDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10.ExceptionDemo05" />
+      <module name="TxTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ExceptionDemo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10.ExceptionDemo06" />
       <module name="TxTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -289,18 +287,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ExceptionDemo01" />
-      <item itemvalue="Application.ExceptionDemo02" />
       <item itemvalue="Application.ExceptionDemo03" />
       <item itemvalue="Application.ExceptionDemo04" />
       <item itemvalue="Application.ExceptionDemo05" />
+      <item itemvalue="Application.ExceptionDemo06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionDemo06" />
         <item itemvalue="Application.ExceptionDemo05" />
         <item itemvalue="Application.ExceptionDemo04" />
         <item itemvalue="Application.ExceptionDemo01" />
         <item itemvalue="Application.ExceptionDemo03" />
-        <item itemvalue="Application.ExceptionDemo02" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +335,7 @@
       <workItem from="1523997149047" duration="548000" />
       <workItem from="1524081637102" duration="2754000" />
       <workItem from="1524086675463" duration="19808000" />
-      <workItem from="1524596835591" duration="1890000" />
+      <workItem from="1524596835591" duration="2710000" />
     </task>
     <task id="LOCAL-00001" summary="2018/03/05">
       <created>1520298819725</created>
@@ -350,7 +348,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101395000" />
+    <option name="totallyTimeSpent" value="102215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="943" extended-state="0" />
@@ -366,11 +364,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32914287" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -816,8 +814,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day10/ExceptionDemo06.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="360">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
