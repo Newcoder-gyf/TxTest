@@ -26,7 +26,7 @@ public class StringDemo04 {
         //判断字符串是否是空串
         System.out.println(str01.isEmpty());
         System.out.println("".isEmpty());
- 
+
         //获得字符串的长度
         System.out.println(str01.length());
     }

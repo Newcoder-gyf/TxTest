@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b6c491-fdec-4f7b-ae10-4bd680ef4dbf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day11/StringDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day11/StringDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day11/StringDemo05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day11/StringDemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11/StringDemo04.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringDemo04.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringDemo04.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Day11/StringDemo04.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="485">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringDemo05.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day11/StringDemo05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -49,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Day06/overrideDemo1.java" />
         <option value="$PROJECT_DIR$/src/Day06/OverrideDemo1.java" />
         <option value="$PROJECT_DIR$/src/Day06/FInalDemo1.java" />
         <option value="$PROJECT_DIR$/src/Day06/FinalDemo1.java" />
@@ -100,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/Day11/StringDemo02.java" />
         <option value="$PROJECT_DIR$/src/Day11/StringDemo03.java" />
         <option value="$PROJECT_DIR$/src/Day11/StringDemo04.java" />
+        <option value="$PROJECT_DIR$/src/Day11/StringDemo05.java" />
       </list>
     </option>
   </component>
@@ -174,23 +183,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringDemo04">
+  <component name="RunManager" selected="Application.StringDemo05">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="ExceptionDemo06" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10.ExceptionDemo06" />
-      <module name="TxTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ExceptionDemo09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10.ExceptionDemo09" />
       <module name="TxTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -235,6 +233,17 @@
     </configuration>
     <configuration name="StringDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day11.StringDemo04" />
+      <module name="TxTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11.StringDemo05" />
       <module name="TxTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -300,19 +309,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ExceptionDemo06" />
-      <item itemvalue="Application.ExceptionDemo09" />
       <item itemvalue="Application.StringDemo01" />
       <item itemvalue="Application.StringDemo02" />
       <item itemvalue="Application.StringDemo03" />
       <item itemvalue="Application.StringDemo04" />
+      <item itemvalue="Application.StringDemo05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringDemo05" />
         <item itemvalue="Application.StringDemo04" />
         <item itemvalue="Application.StringDemo03" />
         <item itemvalue="Application.StringDemo02" />
         <item itemvalue="Application.StringDemo01" />
-        <item itemvalue="Application.ExceptionDemo09" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +361,7 @@
       <workItem from="1524596835591" duration="7800000" />
       <workItem from="1524858034747" duration="5718000" />
       <workItem from="1524975177533" duration="72000" />
-      <workItem from="1525120727713" duration="4180000" />
+      <workItem from="1525120727713" duration="4764000" />
     </task>
     <task id="LOCAL-00001" summary="2018/03/05">
       <created>1520298819725</created>
@@ -365,7 +374,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117275000" />
+    <option name="totallyTimeSpent" value="117859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="943" extended-state="0" />
@@ -463,13 +472,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Day05/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day06/01ExtendsDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
@@ -816,7 +818,14 @@
     <entry file="file://$PROJECT_DIR$/src/Day11/StringDemo04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day11/StringDemo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
