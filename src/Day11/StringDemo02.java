@@ -19,5 +19,13 @@ public class StringDemo02 {
         //String str03 = new String(bs01, 5, 4);
         String str03 = new String(bs01, 5, 2);
         System.out.println("以字节数组作为参数的字符串对象的创建截取字符串: " + str03);
+
+        //创建字符数组
+        char[]cs = {'a', 'b', 'c', 'd', 'e', 'f'};
+        String str04 = new String(cs);
+        System.out.println("以字符数组作为参数创建字符串: " + str04);
+
+        String str05 = new String(cs, 3, 2);
+        System.out.println("以字符数组作为参数的字符串对象的创建截取字符串: " + str05);
     }
 }
