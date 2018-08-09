@@ -19,11 +19,7 @@ public class StringDemo08 {
 //        String appendHead = testHead.toUpperCase();
 //        String testTail = testStr03.substring(1);
 //        System.out.println(appendHead + testTail);
-
-
-
         callMethod();
-
 
     }
 
