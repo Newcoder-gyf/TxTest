@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b6c491-fdec-4f7b-ae10-4bd680ef4dbf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day12/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/CollectionDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day12/CollectionDemo03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day12/ArrayDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12/ArrayDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TxTest/Day12/CollectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day12/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12/CollectionDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day12/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12/StudentClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,33 +20,33 @@
     <session id="-344399420">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="20" />
-          <entry key="java" value="1825" />
+          <entry key="dummy" value="22" />
+          <entry key="java" value="3544" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1825" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="JAVA" value="3544" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -51,19 +54,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day12/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/Day12/CollectionDemo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day12/ArrayDemo01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="120">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,10 +66,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Day12/CollectionDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/Day12/CollectionDemo03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+            <state relative-caret-position="513">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,10 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Day06/03ExtendsDemo3.java" />
-        <option value="$PROJECT_DIR$/src/Day06/05OverrideDemo1.java" />
-        <option value="$PROJECT_DIR$/src/Day06/08FinalDemo3.java" />
-        <option value="$PROJECT_DIR$/src/Day07/InterDemo1.java" />
         <option value="$PROJECT_DIR$/src/Day07/01InterDemo1.java" />
         <option value="$PROJECT_DIR$/src/Day07/02InterDemo02.java" />
         <option value="$PROJECT_DIR$/src/Day07/03InterDemo03.java" />
@@ -153,7 +143,11 @@
         <option value="$PROJECT_DIR$/src/Day11/StringBufferDemo01.java" />
         <option value="$PROJECT_DIR$/src/Day12/Student.java" />
         <option value="$PROJECT_DIR$/src/Day12/ArrayDemo01.java" />
+        <option value="$PROJECT_DIR$/src/Day12/StudentClass.java" />
         <option value="$PROJECT_DIR$/src/Day12/CollectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/Day12/CollectionDemo02.java" />
+        <option value="$PROJECT_DIR$/src/Day12/CollectionDemo01.java" />
+        <option value="$PROJECT_DIR$/src/Day12/CollectionDemo03.java" />
       </list>
     </option>
   </component>
@@ -191,9 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,12 +209,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537480544210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537560777703" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -246,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollectionDemo">
+  <component name="RunManager" selected="Application.CollectionDemo03">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -267,8 +261,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day12.CollectionDemo" />
+    <configuration name="CollectionDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12.CollectionDemo01" />
+      <module name="TxTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12.CollectionDemo02" />
+      <module name="TxTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12.CollectionDemo03" />
       <module name="TxTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -309,34 +331,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11.StringDemo07" />
-      <module name="TxTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringDemo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11.StringDemo08" />
-      <module name="TxTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -359,19 +353,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.ExceptionDemo06" />
-      <item itemvalue="Application.StringDemo07" />
-      <item itemvalue="Application.StringDemo08" />
       <item itemvalue="Application.StringBufferDemo01" />
       <item itemvalue="Application.ArrayDemo01" />
-      <item itemvalue="Application.CollectionDemo" />
+      <item itemvalue="Application.CollectionDemo01" />
+      <item itemvalue="Application.CollectionDemo02" />
+      <item itemvalue="Application.CollectionDemo03" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionDemo" />
+        <item itemvalue="Application.CollectionDemo03" />
+        <item itemvalue="Application.CollectionDemo02" />
+        <item itemvalue="Application.CollectionDemo01" />
         <item itemvalue="Application.ArrayDemo01" />
         <item itemvalue="Application.StringBufferDemo01" />
-        <item itemvalue="Application.StringDemo08" />
-        <item itemvalue="Application.StringDemo07" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +415,8 @@
       <workItem from="1533857926396" duration="657000" />
       <workItem from="1533920415627" duration="1111000" />
       <workItem from="1537398657678" duration="3731000" />
-      <workItem from="1537476556876" duration="2088000" />
+      <workItem from="1537476556876" duration="3641000" />
+      <workItem from="1537557613935" duration="2748000" />
     </task>
     <task id="LOCAL-00001" summary="2018/03/05">
       <created>1520298819725</created>
@@ -434,13 +429,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134639000" />
+    <option name="totallyTimeSpent" value="138940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16605617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16788767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,7 +453,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32914287" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32820514" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.327551" />
       <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32911393" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -527,27 +522,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Day06/09AbstractDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day07/01InterDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day07/03InterDemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day07/02InterDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -873,17 +847,44 @@
     <entry file="file://$PROJECT_DIR$/src/Day12/ArrayDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day12/CollectionDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Day12/StudentClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        <state relative-caret-position="232">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day12/CollectionDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day12/CollectionDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day12/CollectionDemo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
