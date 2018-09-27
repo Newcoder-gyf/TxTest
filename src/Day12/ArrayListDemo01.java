@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.ListIterator;
 
-public class ListDemo01 {
+//ArrayList 是非线程安全的
+public class ArrayListDemo01 {
 
     public static void main(String[] args) {
         //创建一个List集合
