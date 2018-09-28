@@ -9,7 +9,7 @@ public class ArrayListDemo01 {
 
     public static void main(String[] args) {
         //创建一个List集合
-        List newList01 = new ArrayList();
+        ArrayList newList01 = new ArrayList();
         newList01.add("ggg");
         newList01.add("yyy");
         newList01.add("fff");

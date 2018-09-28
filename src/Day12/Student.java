@@ -8,6 +8,9 @@ public class Student {
     private Integer gender;
     private Date birthday;
 
+    public Student() {
+    }
+
     public Student(Integer id, String name, Integer gender, Date birthday) {
         this.id = id;
         this.name = name;
