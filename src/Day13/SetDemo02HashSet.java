@@ -15,7 +15,7 @@ import java.util.HashSet;
  *
  *
  * */
-public class SetDemo02 {
+public class SetDemo02HashSet {
 
     public static void main(String[] args) {
 

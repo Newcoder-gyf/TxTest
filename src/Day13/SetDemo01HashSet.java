@@ -5,11 +5,11 @@ import java.util.Set;
 
 /**
  * Set 特点：
- * 无序性
+ * 无序性  （LinkedHashSet 是有序的）
  * 不可重复
  * 允许有null（只能有1个）
 */
-public class SetDemo01 {
+public class SetDemo01HashSet {
 
     public static void main(String[] args) {
 
