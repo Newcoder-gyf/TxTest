@@ -26,7 +26,7 @@ public class ComparableStudentTest {
     }
 
     private static void compareResult(int value){
-        System.out.println(value == 0? "comparableStudent01 is equal to comparableStudent02": value == -1? "comparableStudent01 is former": "comparableStudent02 is former");
+        System.out.println(value == 0? "comparableStudent01 is equal to comparableStudent02": value < 0? "comparableStudent01 is former": "comparableStudent02 is former");
     }
 
 }

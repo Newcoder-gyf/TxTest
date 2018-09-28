@@ -15,6 +15,15 @@ public class ComparableStudent implements Comparable<ComparableStudent> {
         this.age = age;
     }
 
+    @Override
+    public String toString() {
+        return "ComparableStudent{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
+
     public int getId() {
         return id;
     }
@@ -49,18 +58,18 @@ public class ComparableStudent implements Comparable<ComparableStudent> {
     @Override
     public int compareTo(ComparableStudent o) {
 
-        int idValue = this.id - o.id;
-        if(idValue == 0){
-            int ageValue = this.age - o.age;
-            if(ageValue == 0){
-                int nameValue = this.name.compareTo(o.name);
+        int value = this.id - o.id;
+        if(value == 0){
+            value = this.age - o.age;
+            if(value == 0){
+                value = this.name.compareTo(o.name);
                 if(this.name != null && o.name !=null){
-                    if(nameValue == 0){
+                    if(value == 0){
                         return 0;
                     }
                 }
             }
         }
-        return -1;
+        return value;
     }
 }
