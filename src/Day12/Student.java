@@ -59,4 +59,40 @@ public class Student {
     public void setBirthday(Date birthday) {
         this.birthday = birthday;
     }
+
+
+    //重写equals 方法
+    @Override
+    public boolean equals(Object obj) {
+        //首先判断obj 是否是student的实例
+        if(!(obj instanceof Student)){
+            return false;
+        }
+
+        //把传递过俩的对象转换成子类
+        Student student = (Student) obj;
+
+        //判断两个student是否相同（id， name， gender 相同）
+        if(
+                this.id.equals(student.id)
+                        &&
+                        this.name !=null && student.name !=null
+                        &&
+                        this.name.equals(student.name)
+                        &&
+                        this.gender.equals(student.gender)
+        ){
+            return true;
+        }
+        else {
+            return false;
+        }
+
+    }
+
+    //重写hashCode 方法
+    @Override
+    public int hashCode() {
+        return 1;
+    }
 }
