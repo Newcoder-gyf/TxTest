@@ -26,6 +26,9 @@ public class AdvancedForLoopDemo {
 
         //非线程安全
         for(Student element: newStudentArrayList01){
+//            if(element.getId().equals(1)){
+//                newStudentArrayList01.add(new Student(5, "Gao", 1, new Date()));
+//            } // 此处会报ConcurrentModificationException
             System.out.println(element);
         }
     }
