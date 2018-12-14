@@ -10,20 +10,21 @@ public class SelectionSort {
         System.out.println("After sorting: " + Arrays.toString(sequence));
     }
 
-    private static void SelectionSortHead2Tail(int[] array){
-        for (int i = 0; i < array.length-1; i++){
+    private static void SelectionSortHead2Tail(int[] Array) {
+        for (int i = 0; i < Array.length - 1; i++) {
             int temp = 0;
             int minIndex = i;
 
-            for (int j =  i + 1; j < array.length; j++){
-                if (array[minIndex] > array[j]){
+            for (int j = i + 1; j < Array.length; j++) {
+                if (Array[j] <= Array[minIndex]) {
                     minIndex = j;
                 }
             }
 
-            temp = array[minIndex];
-            array[minIndex] = array[i];
-            array[i] = temp;
+            temp = Array[minIndex];
+            Array[minIndex] = Array[i];
+            Array[i] = temp;
         }
+
     }
 }
