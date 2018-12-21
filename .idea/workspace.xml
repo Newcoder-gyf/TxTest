@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b6c491-fdec-4f7b-ae10-4bd680ef4dbf" name="Default" comment="2018/11/08">
+      <change afterPath="$PROJECT_DIR$/src/AlgorithmTest/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/AlgorithmTest/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TxTest/AlgorithmTest/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TxTest/META-INF/TxTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgorithmTest/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmTest/SelectionSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AlgorithmTest/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="240">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AlgorithmTest/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -96,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Day10/StockExceptionDemo01.java" />
         <option value="$PROJECT_DIR$/src/Day10/ExceptionDemo09.java" />
         <option value="$PROJECT_DIR$/src/Day11/StringDemo01.java" />
         <option value="$PROJECT_DIR$/src/Day11/StringDemo02.java" />
@@ -147,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/Day14/PokerCollecitonTest.java" />
         <option value="$PROJECT_DIR$/src/Day14/PokerDemo.java" />
         <option value="$PROJECT_DIR$/src/AlgorithmTest/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/AlgorithmTest/MergeSort.java" />
       </list>
     </option>
   </component>
@@ -214,7 +221,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544804823712" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545080696261" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -427,7 +434,7 @@
       <workItem from="1541714694119" duration="1880000" />
       <workItem from="1542125553010" duration="222000" />
       <workItem from="1542920203498" duration="626000" />
-      <workItem from="1544803762103" duration="979000" />
+      <workItem from="1544803762103" duration="1493000" />
     </task>
     <task id="LOCAL-00001" summary="2018/03/05">
       <created>1520298819725</created>
@@ -447,7 +454,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177808000" />
+    <option name="totallyTimeSpent" value="178322000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -462,7 +469,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49468893" visible="true" weight="0.1898657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49468893" visible="true" weight="0.1898657" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -471,7 +478,7 @@
       <window_info id="Structure" order="6" sideWeight="0.5053111" side_tool="true" weight="0.16971917" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.327551" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.327551" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,13 +574,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Day11/StringDemo07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day11/StringDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -972,8 +972,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AlgorithmTest/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="240">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmTest/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
