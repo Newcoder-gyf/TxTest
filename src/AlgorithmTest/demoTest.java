@@ -1,8 +1,12 @@
 package AlgorithmTest;
 
+
 public class demoTest {
     public static void main(String[] args){
-        System.out.println(-321 % 10);
+        String s = "      1       2 4 6 *456 * 9";
+        String newS = s.trim();
+        System.out.println(s);
+
     }
 
 }
