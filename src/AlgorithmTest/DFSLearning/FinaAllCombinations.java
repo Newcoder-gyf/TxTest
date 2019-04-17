@@ -1,10 +1,14 @@
 package AlgorithmTest.DFSLearning;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class FinaAllCombinations {
 
+    Map<Character, Integer> map = new HashMap<>();
     static int[] coins = new int[]{25, 10, 5, 1};
 
-    public void FindCombination(int money_left = 99, int level, int[] solu){
+    public void FindCombination(int money_left, int level, int[] solu){
         if (level == 3){
             solu[level] = money_left;
             System.out.println(solu);
